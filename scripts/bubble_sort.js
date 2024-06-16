@@ -1,9 +1,3 @@
-/*
-    *****************************
-    DONE BY :- ANANT KUMAR SINGH 
-    *****************************    
-*/
-
 function Bubble()
 {
     //Setting Time complexities
