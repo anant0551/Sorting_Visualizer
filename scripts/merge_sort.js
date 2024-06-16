@@ -72,7 +72,6 @@ function merge_partition(start,end)
         merge_sort(start,mid,end);
     }
 }
-
 /*
     *****************
     DONE BY:-   ANANT KUMAR SINGH
