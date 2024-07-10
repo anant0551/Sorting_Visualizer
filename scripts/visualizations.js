@@ -51,7 +51,7 @@ function enable_buttons()
             butts_algos[i].disabled=false;
             inp_as.disabled=false;
             inp_gen.disabled=false;
-            // inp_aspeed.disabled=false;
+            inp_aspeed.disabled=false;
         }
     },c_delay+=delay_time);
 }
